@@ -44,7 +44,7 @@ https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-pengui
 # See the Confusion Matrix below 
 
 
-![App Screenshot](https://github.com/RodYazdan/CODING-DOJO-Machine-Learning/blob/master/images/Screen%20Shot%202022-07-29%20at%201.36.56%20AM.png)
+[![App Screenshot](https://github.com/RodYazdan/CODING-DOJO-Machine-Learning/blob/master/images/Screen%20Shot%202022-07-29%20at%201.36.56%20AM.png)](https://github.com/RodYazdan/CODING-DOJO-Machine-Learning/blob/master/images/Confusion%20Matrix%20KNN.png)
 
 
 ## Final Results
