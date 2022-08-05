@@ -25,18 +25,18 @@ https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-pengui
 ![App Screenshot](https://github.com/RodYazdan/CODING-DOJO-Machine-Learning/blob/master/images/Screen%20Shot%202022-07-29%20at%2012.44.52%20AM.png)
 
 
-# Correlation Matric is shown below
+# Correlation Matrix is shown below:
 
 
 ![App Screenshot](https://github.com/RodYazdan/CODING-DOJO-Machine-Learning/blob/master/images/Screen%20Shot%202022-07-29%20at%201.35.38%20AM.png)
 
 
 
-#Penguin Body Mass vs Type is shown below
+# Penguin Body Mass vs Type is shown below
 
 ![App Screenshot](https://github.com/RodYazdan/CODING-DOJO-Machine-Learning/blob/master/images/Screen%20Shot%202022-07-29%20at%201.36.19%20AM.png)
 
-#Penguin  Culmen Length vs Type is shown below
+# Penguin  Culmen Length vs Type is shown below
 
 ![App Screenshot](https://github.com/RodYazdan/CODING-DOJO-Machine-Learning/blob/master/images/Screen%20Shot%202022-07-29%20at%201.36.31%20AM.png)
 
