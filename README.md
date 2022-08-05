@@ -26,22 +26,23 @@ https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-pengui
 
 
 # Correlation Matrix is shown below:
+## Note high correlation between Flipper Length and Body Mass
 
 
 ![App Screenshot](https://github.com/RodYazdan/CODING-DOJO-Machine-Learning/blob/master/images/Screen%20Shot%202022-07-29%20at%201.35.38%20AM.png)
 
 
 
-# Penguin Body Mass vs Type is shown below
+# Penguin Body Mass vs Type is shown below:
 
 ![App Screenshot](https://github.com/RodYazdan/CODING-DOJO-Machine-Learning/blob/master/images/Screen%20Shot%202022-07-29%20at%201.36.19%20AM.png)
 
-# Penguin  Culmen Length vs Type is shown below
+# Penguin  Culmen Length vs Type is shown below:
 
 ![App Screenshot](https://github.com/RodYazdan/CODING-DOJO-Machine-Learning/blob/master/images/Screen%20Shot%202022-07-29%20at%201.36.31%20AM.png)
 
 
-# See the Confusion Matrix below 
+# See the Confusion Matrix below:
 
 
 [![App Screenshot](https://github.com/RodYazdan/CODING-DOJO-Machine-Learning/blob/master/images/Screen%20Shot%202022-07-29%20at%201.36.56%20AM.png)](https://github.com/RodYazdan/CODING-DOJO-Machine-Learning/blob/master/images/Confusion%20Matrix%20KNN.png)
