@@ -48,4 +48,4 @@ https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-pengui
 
 
 ## Final Results
-### The best model is KNN with PCA which has a calssification accuracy of .988 adn runs faster than the KNN without PCA
+### 3 Algorithms were run: 1- Decision Tree, KNN without PCA and KNN with PCA. The best model is KNN without PCA which has a calssification accuracy of .988 with zero false positive or negatives expect for in 3 cases the Adelie penguin wereclassified as Chinstrap. ( See confusion matrix)
