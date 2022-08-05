@@ -1,7 +1,7 @@
 
-# Penguin Classification using Machine Learning
+# Palmer Penguin Classification using Machine Learning
 
-THis project uses the following database :
+This project uses the following database :
 
 Palmer Archipelago (Antarctica) penguin data
 
